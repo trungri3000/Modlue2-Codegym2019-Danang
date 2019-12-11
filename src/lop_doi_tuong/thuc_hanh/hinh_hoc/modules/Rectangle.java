@@ -1,4 +1,4 @@
-package ke_thua.thuc_hanh.hinh_hoc.modules;
+package lop_doi_tuong.thuc_hanh.hinh_hoc.modules;
 
 public class Rectangle extends  shape{
     private double width =1;
