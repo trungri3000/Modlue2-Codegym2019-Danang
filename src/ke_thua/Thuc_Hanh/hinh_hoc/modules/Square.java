@@ -1,4 +1,4 @@
-package lop_doi_tuong.thuc_hanh.hinh_hoc.modules;
+package ke_thua.Thuc_Hanh.hinh_hoc.modules;
 
 public class Square extends Rectangle{
     private double side =1;

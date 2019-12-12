@@ -1,12 +1,12 @@
-package lop_doi_tuong.thuc_hanh.hinh_hoc.modules;
+package ke_thua.Thuc_Hanh.hinh_hoc.modules;
 
-public abstract class shape{
-    public shape(String color, boolean filled) {
+public abstract class Shape{
+    public Shape(String color, boolean filled) {
         this.color = color;
         this.filled = filled;
     }
 
-    public shape() {
+    public Shape() {
     }
 
     public String getColor() {
